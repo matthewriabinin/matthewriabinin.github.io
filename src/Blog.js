@@ -42,7 +42,7 @@ export default function Blog() {
           </Route>
         </Switch>
       </Container>
-      <Footer title="Footer" description="Something here to give the footer a purpose!" />
+      <Footer title="Footer" description="Something here to give the footer a purpose! 1" />
     </Router>
   );
 }
