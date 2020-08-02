@@ -1,5 +1,5 @@
 var ghpages = require('gh-pages');
 
-ghpages.publish('public', {
+ghpages.publish('build', {
   branch: 'master'
 }, function (err) {});
