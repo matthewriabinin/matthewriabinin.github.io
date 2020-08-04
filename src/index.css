@@ -1,0 +1,49 @@
+body {
+  background: white;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+thead {
+  display: table-header-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tr {
+  border-top: 1px solid #c6cbd1;
+  background: #fff;
+}
+
+th,
+td {
+  padding: 6px 13px;
+  border: 1px solid #dfe2e5;
+}
+
+tbody {
+  display: table-row-group;
+  vertical-align: middle;
+  border-color: inherit;
+}
+
+tr {
+  border-top: 1px solid #c6cbd1;
+  background: #fff;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, monospace;
+  font-size: 1em;
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  color: #333;
+  background: #f8f8f8;
+}
