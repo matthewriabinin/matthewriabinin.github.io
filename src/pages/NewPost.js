@@ -3,7 +3,7 @@ import Grid from '@material-ui/core/Grid';
 import { makeStyles } from '@material-ui/core/styles';
 
 import Markdown from '../components/Markdown';
-import postPath from '../posts/blog-post-1.md';
+import postPath from '../posts/grad-opt/grad-opt.md';
 
 const useStyles = makeStyles((theme) => ({
   markdown: {

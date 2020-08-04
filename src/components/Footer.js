@@ -10,9 +10,9 @@ function Copyright() {
     <Typography variant="body2" color="textSecondary" align="center">
       {'Copyright © '}
       <Link color="inherit" href="https://material-ui.com/">
-        Your Website
+        Delete
       </Link>{' '}
-      {new Date().getFullYear()}
+      {'2020'}
       {'.'}
     </Typography>
   );

@@ -3,6 +3,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import Grid from '@material-ui/core/Grid';
 import GitHubIcon from '@material-ui/icons/GitHub';
 import FacebookIcon from '@material-ui/icons/Facebook';
+import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import TwitterIcon from '@material-ui/icons/Twitter';
 import Typography from '@material-ui/core/Typography';
 import Divider from '@material-ui/core/Divider';
@@ -11,10 +12,11 @@ import MainFeaturedPost from '../components/MainFeaturedPost';
 import FeaturedPost from '../components/FeaturedPost';
 import Markdown from '../components/Markdown';
 import Sidebar from '../components/Sidebar';
-import post1 from '../posts/blog-post-1.md';
 
-import post2 from '../posts/blog-post-2.md';
-import post3 from '../posts/blog-post-3.md';
+import post1 from '../posts/grad-opt/grad-opt.md';
+import post2 from '../posts/wigner/wigner.md';
+import post3 from '../posts/shmidt-decomp/shmidt-decomp.md';
+import post4 from '../posts/new/new.md';
 
 const useStyles = makeStyles((theme) => ({
   mainGrid: {
@@ -38,48 +40,60 @@ const mainFeaturedPost = {
 
 const featuredPosts = [
   {
-    title: 'Featured post',
-    date: 'Nov 12',
+    title: 'Gradient descent optimization with TensorFlow 2',
+    date: 'Sept 1',
     description:
       'This is a wider card with supporting text below as a natural lead-in to additional content.',
     image: 'https://source.unsplash.com/random',
     imageText: 'Image Text',
     link: 'new-post'
   },
-  {
-    title: 'Post title',
-    date: 'Nov 11',
+
+    {
+    title: 'Shmidt',
+    date: 'Sept 1',
     description:
       'This is a wider card with supporting text below as a natural lead-in to additional content.',
     image: 'https://source.unsplash.com/random',
     imageText: 'Image Text',
-    link: 'new-post-1'
+    link: 'new-post'
   },
+
+//      {
+//    title: 'Wigner',
+//    date: 'Sept 1',
+//    description:
+//      'This is a wider card with supporting text below as a natural lead-in to additional content.',
+//    image: 'https://source.unsplash.com/random',
+//    imageText: 'Image Text',
+//    link: 'new-post'
+//  },
+
 ];
 
-const postsPaths = [post1, post2, post3];
+const postsPaths = [post1, post2, post3, post4];
 
 const sidebar = {
   title: 'About',
   description:
-    'Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.',
+    'Introduction here...',
   archives: [
     { title: 'March 2020', url: '#' },
-    { title: 'February 2020', url: '#' },
-    { title: 'January 2020', url: '#' },
-    { title: 'November 1999', url: '#' },
-    { title: 'October 1999', url: '#' },
-    { title: 'September 1999', url: '#' },
-    { title: 'August 1999', url: '#' },
-    { title: 'July 1999', url: '#' },
-    { title: 'June 1999', url: '#' },
-    { title: 'May 1999', url: '#' },
-    { title: 'April 1999', url: '#' },
+//    { title: 'February 2020', url: '#' },
+//    { title: 'January 2020', url: '#' },
+//    { title: 'November 1999', url: '#' },
+//    { title: 'October 1999', url: '#' },
+//    { title: 'September 1999', url: '#' },
+//    { title: 'August 1999', url: '#' },
+//    { title: 'July 1999', url: '#' },
+//    { title: 'June 1999', url: '#' },
+//    { title: 'May 1999', url: '#' },
+//    { title: 'April 1999', url: '#' },
   ],
   social: [
     { name: 'GitHub', icon: GitHubIcon },
-    { name: 'Twitter', icon: TwitterIcon },
-    { name: 'Facebook', icon: FacebookIcon },
+    { name: 'LinkedIn', icon: LinkedInIcon },
+//    { name: 'Facebook', icon: FacebookIcon },
   ],
 };
 

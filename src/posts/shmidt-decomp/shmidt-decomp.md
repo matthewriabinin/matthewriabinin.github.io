@@ -1,4 +1,4 @@
-# MD.
+# Shmidt decomposition.
 
 #### September 1, 2020 by [Matt](/)
 
@@ -10,6 +10,10 @@ You can extend these by modifying `Markdown.js`.
 s = "Python syntax highlighting"
 print(s)
 ```
+
+<img src="/home/matvei/matthewriabinin.github.io/src/posts/shmidt-decomp/files/func.png" alt="hi" class="inline"/>
+<img src="/src/posts/shmidt-decomp/files/func.png" alt="hi" class="inline"/>
+
 
 Markdown | Less | Pretty
 --- | --- | ---
