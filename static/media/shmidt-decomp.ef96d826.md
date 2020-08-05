@@ -11,7 +11,7 @@ s = "Python syntax highlighting"
 print(s)
 ```
 
-<img src="/home/matvei/matthewriabinin.github.io/src/posts/shmidt-decomp/files/func.png" alt="hi" class="inline"/>
+<img src="static/media/func.088a93f2.png" alt="hi" class="inline"/>
 <img src="/src/posts/shmidt-decomp/files/func.png" alt="hi" class="inline"/>
 
 
@@ -63,3 +63,4 @@ Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a p
 3.  Maecenas sed diam eget risus varius blandit sit amet non magna.
 
 Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+`
