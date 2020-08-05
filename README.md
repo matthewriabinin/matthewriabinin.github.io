@@ -9,6 +9,10 @@ yarn
 yarn start
 ```
 
+Generate static files.
+```sh
+yarn build
+```
 
 Deploy:
 
