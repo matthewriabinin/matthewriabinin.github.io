@@ -11,8 +11,8 @@ s = "Python syntax highlighting"
 print(s)
 ```
 
-<img src="static/media/func.088a93f2.png" alt="hi" class="inline"/>
-<img src="/src/posts/shmidt-decomp/files/func.png" alt="hi" class="inline"/>
+<!--- <img src="static/media/func.088a93f2.png" alt="hi" class="inline"/> -->
+<img src="build/static/media/func.088a93f2.png" alt="hi" class="inline"/>
 
 
 Markdown | Less | Pretty
