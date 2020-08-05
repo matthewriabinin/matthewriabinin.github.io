@@ -1,6 +1,6 @@
 # Shmidt decomposition.
 
-#### September 1, 2020 by [Matt](/)
+#### September 1, 2020 by [Matvei](/)
 
 This blog post shows a few different types of content that are supported and styled with
 Material styles. Basic typography, images, and code are all supported.
@@ -12,7 +12,7 @@ print(s)
 ```
 
 <!--- <img src="static/media/func.088a93f2.png" alt="hi" class="inline"/> -->
-<img src="build/static/media/func.088a93f2.png" alt="hi" class="inline"/>
+<img src="../static/media/func.088a93f2.png" alt="hi" class="inline"/>
 
 
 Markdown | Less | Pretty

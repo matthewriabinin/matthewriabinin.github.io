@@ -39,15 +39,6 @@ const mainFeaturedPost = {
 };
 
 const featuredPosts = [
-  {
-    title: 'Gradient descent optimization with TensorFlow 2',
-    date: 'Sept 1',
-    description:
-      'This is a wider card with supporting text below as a natural lead-in to additional content.',
-    image: 'https://source.unsplash.com/random',
-    imageText: 'Image Text',
-    link: 'new-post'
-  },
 
     {
     title: 'Shmidt',
@@ -56,7 +47,18 @@ const featuredPosts = [
       'This is a wider card with supporting text below as a natural lead-in to additional content.',
     image: 'https://source.unsplash.com/random',
     imageText: 'Image Text',
-    link: 'new-post'
+    link: 'shmidt-decomposition'
+  },
+
+
+  {
+    title: 'Gradient descent optimization with TensorFlow 2',
+    date: 'Sept 1',
+    description:
+      'This is a wider card with supporting text below as a natural lead-in to additional content.',
+    image: 'https://source.unsplash.com/random',
+    imageText: 'Image Text',
+    link: 'grad-optimization'
   },
 
 //      {

@@ -2,7 +2,7 @@ import React from 'react';
 import CssBaseline from '@material-ui/core/CssBaseline';
 import Container from '@material-ui/core/Container';
 
-import NewPost from './pages/NewPost';
+import ShmidtDecomp from './pages/ShmidtDecomp';
 import Index from './pages/Index';
 
 import Header from './components/Header';
@@ -28,8 +28,8 @@ export default function Blog() {
       <Container maxWidth="lg">
         <Header title="Blog" sections={sections} />
         <Switch>
-          <Route path="/new-post">
-            <NewPost />
+          <Route path="/shmidt-decomposition">
+            <ShmidtDecomp />
           </Route>
           <Route path="/">
             <Index />
