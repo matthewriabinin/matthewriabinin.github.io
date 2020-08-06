@@ -1,28 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.85572e93.chunk.css",
-    "main.js": "/static/js/main.2af020a6.chunk.js",
-    "main.js.map": "/static/js/main.2af020a6.chunk.js.map",
+    "main.js": "/static/js/main.174cd216.chunk.js",
+    "main.js.map": "/static/js/main.174cd216.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.66cf0057.js",
     "runtime-main.js.map": "/static/js/runtime-main.66cf0057.js.map",
-    "static/js/2.a3709bc6.chunk.js": "/static/js/2.a3709bc6.chunk.js",
-    "static/js/2.a3709bc6.chunk.js.map": "/static/js/2.a3709bc6.chunk.js.map",
+    "static/js/2.7e386cce.chunk.js": "/static/js/2.7e386cce.chunk.js",
+    "static/js/2.7e386cce.chunk.js.map": "/static/js/2.7e386cce.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7299c6811091d6cf7d9ad5ccd6844bbd.js": "/precache-manifest.7299c6811091d6cf7d9ad5ccd6844bbd.js",
+    "precache-manifest.60e912198b25dfdb8b95640210bf573f.js": "/precache-manifest.60e912198b25dfdb8b95640210bf573f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.85572e93.chunk.css.map": "/static/css/main.85572e93.chunk.css.map",
-    "static/js/2.a3709bc6.chunk.js.LICENSE.txt": "/static/js/2.a3709bc6.chunk.js.LICENSE.txt",
-    "static/media/func.png": "/static/media/func.088a93f2.png",
-    "static/media/func2.png": "/static/media/func2.088a93f2.png",
-    "static/media/grad-opt.md": "/static/media/grad-opt.393e8034.md",
-    "static/media/new.md": "/static/media/new.49edd1cd.md",
-    "static/media/shmidt-decomp.md": "/static/media/shmidt-decomp.a1fd2629.md",
-    "static/media/wigner.md": "/static/media/wigner.4e5a2018.md"
+    "static/js/2.7e386cce.chunk.js.LICENSE.txt": "/static/js/2.7e386cce.chunk.js.LICENSE.txt",
+    "static/media/assembly.png": "/static/media/assembly.26eea317.png",
+    "static/media/eigvalues.png": "/static/media/eigvalues.34805bfe.png",
+    "static/media/func.png": "/static/media/func.79467b4d.png",
+    "static/media/grad-opt.md": "/static/media/grad-opt.9badff37.md",
+    "static/media/modes.png": "/static/media/modes.7de203f8.png",
+    "static/media/new.md": "/static/media/new.452f5fdd.md",
+    "static/media/shmidt-decomp.md": "/static/media/shmidt-decomp.4e13a92d.md",
+    "static/media/wigner.md": "/static/media/wigner.b523d627.md"
   },
   "entrypoints": [
     "static/js/runtime-main.66cf0057.js",
-    "static/js/2.a3709bc6.chunk.js",
+    "static/js/2.7e386cce.chunk.js",
     "static/css/main.85572e93.chunk.css",
-    "static/js/main.2af020a6.chunk.js"
+    "static/js/main.174cd216.chunk.js"
   ]
 }
