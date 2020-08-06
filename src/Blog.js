@@ -36,7 +36,7 @@ export default function Blog() {
           </Route>
         </Switch>
       </Container>
-      <Footer title="matthewriabinin.github.io" description="Something here to give the footer a purpose!" />
+      <Footer title="matthewriabinin.github.io" description="Brought to you with love" />
     </Router>
   );
 }

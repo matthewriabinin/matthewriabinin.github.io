@@ -4,8 +4,11 @@ import { makeStyles } from '@material-ui/core/styles';
 
 import Markdown from '../components/Markdown';
 import postPath from '../posts/shmidt-decomp/shmidt-decomp.md';
+
 import '../assets/func.png'
-import '../assets/func2.png'
+import '../assets/assembly.png'
+import '../assets/modes.png'
+import '../assets/eigvalues.png'
 
 
 const useStyles = makeStyles((theme) => ({

@@ -13,9 +13,9 @@ import FeaturedPost from '../components/FeaturedPost';
 import Markdown from '../components/Markdown';
 import Sidebar from '../components/Sidebar';
 
-import post1 from '../posts/grad-opt/grad-opt.md';
+import post1 from '../posts/shmidt-decomp/shmidt-decomp.md';
 import post2 from '../posts/wigner/wigner.md';
-import post3 from '../posts/shmidt-decomp/shmidt-decomp.md';
+import post3 from '../posts/grad-opt/grad-opt.md';
 import post4 from '../posts/new/new.md';
 
 const useStyles = makeStyles((theme) => ({
@@ -41,10 +41,11 @@ const mainFeaturedPost = {
 const featuredPosts = [
 
     {
-    title: 'Shmidt',
+    title: 'Shmidt decomposition algorithm. Implementation with examples.',
     date: 'Sept 1',
     description:
-      'This is a wider card with supporting text below as a natural lead-in to additional content.',
+      'Decomposition of the function into some basis gives a clear view on its properties. Common examples are\n' +
+        'Fourier series decomposition or Wavelet transform. Here we will explore less known Shmidt decomposition that finds application in quantum physics.',
     image: 'https://source.unsplash.com/random',
     imageText: 'Image Text',
     link: 'shmidt-decomposition'
